@@ -14,8 +14,8 @@ class CurrentWeather:
         'Toronto':['zmw:00000.176.71508.json'],
         'Montreal':['canada/Montreal.json'],
         'Vancouver':['canada/Vancouver.json'],
-        'New York':['CA/New_York.json'],
-        'Los Angeles':['/CA/Los_Angeles.json'],
+        'New York':['NY/New_York.json'],
+        'Los Angeles':['CA/Los_Angeles.json'],
         'London':['UK/London.json'],
         'Mumbai':['india/Mumbai.json']
     }
