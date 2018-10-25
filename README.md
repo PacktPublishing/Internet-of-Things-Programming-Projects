@@ -45,9 +45,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789134803_ColorImages.pdf).
 
 ### Related products
-*  [[Packt]](https://www.packtpub.com/networking-and-servers/hands-security-devops?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788995503)
+* Hands-On Security in DevOps [[Packt]](https://www.packtpub.com/networking-and-servers/hands-security-devops?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788995503)
 
-*  [[Packt]](https://www.packtpub.com/virtualization-and-cloud/effective-devops-aws-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789539978)
+* Effective DevOps with AWS - Second Edition [[Packt]](https://www.packtpub.com/virtualization-and-cloud/effective-devops-aws-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789539978)
 
 ## Get to Know the Author
 **Colin Dow**
