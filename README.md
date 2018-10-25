@@ -5,6 +5,7 @@
 
 This is the code repository for [Internet of Things Programming Projects](https://www.packtpub.com/application-development/internet-things-programming-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789134803), published by Packt.
 
+**Build modern IoT solutions with the Raspberry Pi 3 and Python**
 
 ## What is this book about?
 The Internet of Things has managed to attract the attention of researchers and tech enthusiasts, since it powerfully combines classical networks with instruments and devices.
