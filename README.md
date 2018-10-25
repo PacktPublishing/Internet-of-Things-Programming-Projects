@@ -15,7 +15,6 @@ This book covers the following exciting features:
 * Build a home security dashboard using an infrared motion detector 
 * Communicate with a web service that sends you a message when the doorbell rings 
 * Receive data and display it with an actuator connected to the Raspberry Pi 
-* Build an IoT robot car that is controlled through the internet 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789134803) today!
 
