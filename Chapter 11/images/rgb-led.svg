@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64.747398mm"
+   height="151.50082mm"
+   viewBox="0 0 64.747398 151.50082"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="rgb-led.svg"
+   inkscape:export-filename="/Users/sigmamacbook/Dropbox/IoT with Python and Raspberry Pi Book/GitHub/Internet-of-Things-Programming-Projects/Chapter 11/images/rgb-led.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.81400144"
+     inkscape:cx="25.435182"
+     inkscape:cy="286.272"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-29.88136,-92.093329)">
+    <g
+       id="g961">
+      <path
+         inkscape:connector-curvature="0"
+         id="rect819"
+         d="M 62.04324,102.55635 A 19.843992,18.64316 0 0 0 42.259269,120.068 h -0.07908 v 53.97671 h 39.72559 V 120.068 h -0.06099 A 19.843992,18.64316 0 0 0 62.04324,102.55635 Z"
+         style="fill:#c0c0c0;fill-opacity:0.53807104;stroke:#000000;stroke-width:0.92604166;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path827"
+         d="m 46.347499,174.04471 -0.349628,39.29416 v 0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.92604166;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.07291996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 55.870601,174.03829 -0.345826,53.32713 v 0"
+         id="path829"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path831"
+         d="m 66.455142,174.04236 -0.348234,43.43594 v 0"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.97168225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.88269186;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 76.510431,174.04546 -0.350472,35.61523 v 0"
+         id="path833"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="scale(0.99300754,1.0070417)"
+         id="text847"
+         y="217.4149"
+         x="39.560928"
+         style="font-style:normal;font-weight:normal;font-size:6.12631369px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15315785px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ff0000;fill-opacity:1;stroke-width:0.15315785px"
+           y="217.4149"
+           x="39.560928"
+           id="tspan845"
+           sodipodi:role="line">RED</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.12631369px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15315785px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="57.679283"
+         y="221.61864"
+         id="text858"
+         transform="scale(0.99300754,1.0070417)"><tspan
+           sodipodi:role="line"
+           id="tspan856"
+           x="57.679283"
+           y="221.61864"
+           style="fill:#00ff00;fill-opacity:1;stroke-width:0.15315785px">GREEN</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.12631369px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15315785px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="69.935829"
+         y="213.73663"
+         id="text886"
+         transform="scale(0.99300754,1.0070417)"><tspan
+           sodipodi:role="line"
+           id="tspan884"
+           x="69.935829"
+           y="213.73663"
+           style="fill:#0000ff;fill-opacity:1;stroke-width:0.15315785px">BLUE</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.12631369px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.15315785px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="52.350365"
+         y="231.07704"
+         id="text890"
+         transform="scale(0.99300754,1.0070417)"><tspan
+           sodipodi:role="line"
+           id="tspan888"
+           x="52.350365"
+           y="231.07704"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.15315785px;stroke-opacity:1">(-)</tspan></text>
+    </g>
+  </g>
+</svg>

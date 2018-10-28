@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MQTT Message Client</title>
+    <script src="paho.javascript-1.0.3/paho-mqtt.js" type="text/javascript"></script>
+    <script src="scripts/index.js" type='text/javascript'></script>
+</head>
+
+<body>
+    <h2>MQTT Message Client</h2>
+    <button onclick="sendTestData()">
+        <h4>Send test message</h4>
+    </button>
+    <button onclick="subscribeTestData()">
+        <h4>Subscribe to test</h4>
+    </button>
+    <div>
+        <input type="text" id="messageTxt" value="Waiting for MQTT message" size=34 />
+    </div>
+</body>
+
+</html>

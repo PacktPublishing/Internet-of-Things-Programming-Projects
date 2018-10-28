@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>T.A.R.A.S Robot Car Control</title>
+    <script src="paho.javascript-1.0.3/paho-mqtt.js" type="text/javascript"></script>
+    <script src="scripts/index.js" type='text/javascript'></script>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+    <h2>T.A.R.A.S Robot Car Control</h2>
+    <div>
+        <button onclick="moveForward()" class="big_button">
+            <h4>Forward</h4>
+        </button>
+    </div>
+    <div>
+        <button onclick="turnLeft()" class="small_button">
+            <h4>Turn Left</h4>
+        </button>
+        <button onclick="turnRight()" class="small_button">
+            <h4>Turn Right</h4>
+        </button>
+    </div>
+    <div>
+        <button onclick="moveBackward()" class="big_button">
+            <h4>Backwards</h4>
+        </button>
+    </div>
+    <div>
+        <button onclick="takePicture()" class="distance_button">
+            <h4>Take Picture</h4>
+        </button>
+        <button onclick="TARASAlarm()" class="distance_button">
+            <h4>T.A.R.A.S Alarm</h4>
+        </button>
+        <button onclick="makeTARASDance()" class="distance_button">
+            <h4>T.A.R.A.S Dance</h4>
+        </button>
+        <button onclick="subscribeDistanceData()" class="distance_button">
+            <h4>Track Distance</h4>
+        </button>
+        <input type="text" id="messageTxt" value="0" size=34 class="distance" />
+    </div>
+</body>
+
+</html>

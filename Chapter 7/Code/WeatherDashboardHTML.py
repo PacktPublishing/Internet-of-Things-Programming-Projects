@@ -43,8 +43,7 @@ class WeatherDashboardHTML:
                         <div class="card">
                             <div class="card-header">
                                 <h3>Weather Conditions for """ + self.currentWeather.getCity() + """
-                                &emsp;&emsp;<img src=' """ + self.currentWeather.getIcon() + """
-                                ' align='middle'/></h3></div>
+                                </h3></div>
                              <div class="card-body">
                                 <div class="row">
                                     <div class="col element-box">
@@ -61,7 +60,7 @@ class WeatherDashboardHTML:
                                     </div>
                                 </div>
                             </div>
-                            <div class="card-footer">""" + self.currentWeather.getTime() + """</div>
+                            <div class="card-footer"><p>""" + self.currentWeather.getTime() + """</p></div>
                         </div>
                     </div>
                 </body>
@@ -70,7 +69,7 @@ class WeatherDashboardHTML:
                """
     
 if __name__=="__main__":
-    currentWeather = WeatherData('Los Angeles')
+    currentWeather = WeatherData('Paris')
     cherrypy.quickstart(WeatherDashboardHTML(currentWeather))
     
 

@@ -1,28 +1,26 @@
 from sense_emu import SenseHat
+from CurrentWeather import CurrentWeather
 
 class DisplayWeather:
-    city=''
-    temperature=''
-    weather_conditions=''
-    wind_speed=''
+    current_weather = ''
     
-    def __init__(self, weather_info=['No City','0','no conditions','0']):
-        self.city=weather_info[0]
-        self.temperature=weather_info[1]
-        self.weather_conditions=weather_info[2]
-        self.wind_speed=weather_info[3]
+    def __init__(self, current_weather):
+        self.current_weather = current_weather
         
-    def display_weather(self):
-        sense_emulator = SenseHat()        
-        message="%s %sC %s wind speed %s km/h" %(self.city, self.temperature, self.weather_conditions, self.wind_speed)
+    def display(self):
+        sense_hat_emulator = SenseHat()
         
-        sense_emulator.show_message(message)
-         
+        message = ("%s %sC %s wind speed %s km/h"
+           %(self.current_weather.getCity(),
+           self.current_weather.getTemperature(),
+           self.current_weather.getWeatherConditions(),
+           self.current_weather.getWindSpeed()))
+           
+        sense_hat_emulator.show_message(message)
+        
 if __name__ == "__main__":
+    current_weather = CurrentWeather('Toronto')
+    display_weather = DisplayWeather(current_weather)
+    display_weather.display()
     
-    weather_info=['Toronto','12.3','clear','12']
-    display_weather=DisplayWeather(weather_info)
-    display_weather.display_weather()
-    
-    
-        
+

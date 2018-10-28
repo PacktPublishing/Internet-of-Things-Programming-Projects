@@ -4,7 +4,7 @@ from time import sleep
 class MorseCodeGenerator:
     
     led = LED(18)
-    dot_duration = 0.2
+    dot_duration = 0.3
     dash_duration = dot_duration * 3
     word_spacing_duration = dot_duration * 7
           

@@ -6,6 +6,4 @@ class StaticPage():
      def index(self):
          return open('static.html')
         
-        
-if __name__== '__main__':
-    cherrypy.quickstart(StaticPage())
+cherrypy.quickstart(StaticPage())

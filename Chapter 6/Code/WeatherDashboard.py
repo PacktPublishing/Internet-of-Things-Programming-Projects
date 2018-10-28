@@ -38,7 +38,9 @@ class WeatherDashboard:
             self.led.blink()
     
     def convert_percentage_to_integer(self, percentage_amount):
-        return (percentage_amount*0.02)-1
+        #adjust for servos that turn counter clockwise by default
+        adjusted_percentage_amount = 100 - percentage_amount
+        return (adjusted_percentage_amount*0.02)-1
     
 if __name__=="__main__":
     
