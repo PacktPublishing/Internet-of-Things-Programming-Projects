@@ -3,7 +3,7 @@ from time import sleep
 
 class RobotBeep:
     
-    buzzer = Buzzer(25)
+    buzzer = Buzzer(12)
     notes = [[0.5,0.5],[0.5,1],[0.2,0.5],[0.5,0.5],[0.5,1],[0.2,0.5]]
     
     def __init__(self, play_init=False):
